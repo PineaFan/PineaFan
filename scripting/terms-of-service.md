@@ -11,7 +11,7 @@ _Last updated: 2025-07-15_
 | First revision      | \$0                  | Minor tweaks [1] and bug-fixes only                                                        |
 | Extra revisions     | \$40 / h             | Billed after all changes are made and approved                                             |
 | One-off maintenance | \$25                 | Covers platform / API changes, up to ≈ 1 h of work [2]                                     |
-| Late-delivery       | –25 % of quoted price| Automatic discount if I miss the agreed delivery date or 1-week revision deadline          |
+| Late-delivery       | -25 % of quoted price| Automatic discount if I miss the agreed delivery date or 1-week revision deadline          |
 
 > [1] **Minor tweaks** are small changes that take up to around one hour of work.  
 > [2] **One-off maintenance** applies only after the 14-day warranty period has expired.
